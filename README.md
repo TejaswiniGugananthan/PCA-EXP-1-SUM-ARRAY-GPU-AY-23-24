@@ -1,6 +1,6 @@
 #  EXP-1  SUM ARRAY GPU
-<h3>NAME: LEANN JOBY MATHEW</h3>
-<h3>REGISTER NO: 212222230074</h3>
+<h3>NAME: G.TEJASWINI </h3>
+<h3>REGISTER NO: 212222230157</h3>
 <h3>DATE: </h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
   
@@ -21,8 +21,6 @@ To perform vector addition on host and device.
 
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
-
-
 
 
 ## PROCEDURE:
